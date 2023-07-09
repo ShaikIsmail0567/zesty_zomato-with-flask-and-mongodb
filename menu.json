@@ -1,0 +1,42 @@
+[
+   {
+      "availability": "yes",
+      "dish_name": "chicken biryani",
+      "id": 6,
+      "image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "380",
+      "stock": "17"
+   },
+   {
+      "availability": "no",
+      "dish_name": "khichdi",
+      "id": 3,
+      "image": "https://images.pexels.com/photos/6363501/pexels-photo-6363501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": 250,
+      "stock": 30
+   },
+   {
+      "availability": "yes",
+      "dish_name": "daaal chawal",
+      "id": 201,
+      "image": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "20",
+      "stock": 15
+   },
+   {
+      "availability": "yes",
+      "dish_name": "salad",
+      "id": 202,
+      "image": "https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": "150",
+      "stock": "8"
+   },
+   {
+      "availability": "yes",
+      "dish_name": "pani puri",
+      "id": 400,
+      "image": "https://images.pexels.com/photos/17184404/pexels-photo-17184404/free-photo-of-fuchka-panipuri.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": 250,
+      "stock": 40
+   }
+]

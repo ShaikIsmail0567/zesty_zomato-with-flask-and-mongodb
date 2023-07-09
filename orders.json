@@ -1,0 +1,24 @@
+[
+          {
+                    "customer_name": "shaik",
+                    "order_id": 1,
+                    "quantity": 5,
+                    "status": "preparing",
+                    "total_price": 1000
+          },
+          {
+                    "customer_name": "mohammed",
+                    "order_id": 2,
+                    "quantity": 5,
+                    "status": "ready for pickup",
+                    "total_price": 1000
+          },
+          {
+                    "customer_name": "ismail",
+                    "order_id": 3,
+                    "quantity": 10,
+                    "status": "received",
+                    "total_price": 2000
+          }
+          
+]
